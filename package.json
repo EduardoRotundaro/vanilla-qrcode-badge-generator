@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-qrcode-badge-generator",
+  "author": "Eduardo Henrique Rotundaro",
+  "version": "0.0.1",
+  "description": "A QRCode generator, made in vanilla javascript.",
+  "main": "src/index.html",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoRotundaro/vanilla-qrcode-badge-generator.git"
+  },
+  "keywords": ["vanilla", "qrcode"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoRotundaro/vanilla-qrcode-badge-generator/issues"
+  },
+  "homepage": "https://github.com/EduardoRotundaro/vanilla-qrcode-badge-generator#readme"
+}
